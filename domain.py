@@ -4,7 +4,7 @@ from itertools import product
 import asyncio
 import discord_webhook
 
-webhook = "https://discord.com/api/webhooks/1356815142616301681/h1GHvTRCGhHIidR48e5JTQStJaQG9IPXfxCqT2ZENMv210WnV-nYsOcEKjDNgSPfUTbx"
+webhook = "여기에 웹훅을 입력해주세요"
 
 async def check_domain(domain):
     try:
